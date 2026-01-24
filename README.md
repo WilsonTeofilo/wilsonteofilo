@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de sistemas`**
 
-Me chamo Wilson Teofilo, tenho 24 anos, sou de São Paulo - SP e atualmente estou cursando  Desenvolvimento de Sistemas na **ETEC Irmã Agostina**, onde estou no 2º semestre. Tenho interesse em **desenvolvimento de software** e **programação de jogos**, e estou em constante evolução como programador.
+Me chamo Wilson Teofilo, tenho 24 anos, sou de São Paulo - SP e atualmente estou cursando  Desenvolvimento de Sistemas na **ETEC Irmã Agostina**, onde estou no 3º semestre. Tenho interesse em **desenvolvimento de software** e **programação de jogos**, e estou em constante evolução como programador.
 
 Compartilho minha rotina de estudos, aprendizados e experiências através de **lives e vídeos no meu canal no YouTube**, além de conteúdos no meu Instagram profissional.
 
