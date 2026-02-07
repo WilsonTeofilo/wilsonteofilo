@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="./assets/foto.png"
-    width="800"
+    width="770"
     height = "350"
     style="border-radius:50%;"
     alt="Foto de perfil de Wilson Teofilo"
