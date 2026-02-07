@@ -14,7 +14,7 @@ Programador em evolução
 <br>
 
 <h2 align="center">
-  <em>⋆ ִֶָ☾⭒ Sobre mim ⭒ ☾.⋆</em>
+  <em> ִֶָ☾ Sobre mim  ☾⋆</em>
 </h2>
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="230" align="right" style="margin-left:20px;" />
@@ -69,7 +69,7 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 
 
 <h2 align="center"
-  ><em>⋆ ִֶָ☾ °⭒ Estatísticas ⭒ ִֶָ☾.⋆ </em></h2>
+  ><em> ִֶָ☾  Estatísticas  ִֶָ☾. </em></h2>
 
 <div align="center">
 
