@@ -11,11 +11,11 @@
 
 
 
-# 👩🏾‍💻 Wilson Teofilo
+
 
 **Estudante de Desenvolvimento de Sistemas | Programador em evolução 🚀**
 
-Me chamo **Wilson Teofilo**, tenho **24 anos**, sou de **São Paulo – SP** e atualmente curso **Desenvolvimento de Sistemas** na **ETEC Irmã Agostina** (3º semestre).
+Me chamo **Wilson Teofilo**, sou de **São Paulo – SP** e atualmente curso **Desenvolvimento de Sistemas** na **ETEC Irmã Agostina** (3º semestre).
 
 Tenho interesse em **desenvolvimento de software**, **programação de jogos** e **projetos práticos**, sempre buscando evoluir tanto na lógica quanto na arquitetura de sistemas.
 
