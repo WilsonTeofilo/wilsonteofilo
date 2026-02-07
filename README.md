@@ -49,12 +49,12 @@ Compartilho minha rotina de estudos, aprendizados e experiências através de **
 
 <div align="center">
   
-![Stats de Wilson](https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&rank_icon=github)
 ![Streak de Wilson](https://nirzak-streak-stats.vercel.app/?user=WilsonTeofilo&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
 
 <br/>
 
-![Linguagens de Wilson](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&layout=compact)
 
 <br/>
 
