@@ -2,7 +2,7 @@
 
 <img 
   src="./assets/cortadinho.jpg"
-  width="700"
+  width="880"
   style="border-radius:50%;"
   alt="Foto de perfil de Wilson Teofilo"
 />
