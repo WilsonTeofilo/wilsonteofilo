@@ -21,14 +21,14 @@ Me chamo **Wilson Teofilo**, sou de **São Paulo – SP** e atualmente curso
 
 Tenho interesse em:
 
-- 💻 Desenvolvimento de software  
-- 🎮 Programação de jogos  
-- 🧠 Projetos práticos e arquitetura de sistemas  
+ 💻 Desenvolvimento de software  
+ 🎮 Programação de jogos  
+ 🧠 Projetos práticos e arquitetura de sistemas  
 
 Compartilho minha rotina de estudos e experiências através de:
 
-- 📺 Lives e vídeos no YouTube  
-- 📸 Conteúdos no Instagram profissional  
+📺 Lives e vídeos no YouTube  
+📸 Conteúdos no Instagram profissional  
 
 ---
 
