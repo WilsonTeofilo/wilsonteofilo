@@ -32,12 +32,36 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 <br>
 
 
+<h2 align="center"><em>🔗 Conecte-se comigo</em></h2>
 
-<h2 align="left"><em>🔗 Conecte-se comigo</em></h2>
+<p align="center">
+  <a href="https://www.youtube.com/@Teofilo_dev?sub_confirmation=1">
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtoTrMdOt7GnX8YqPa5OpFQ?color=%23FF0000&label=INSCREVA-SE&logo=youtube&logoColor=white&style=for-the-badge&labelColor=E60023"/>
+  </a>
 
-<p> <a href="https://www.youtube.com/@Teofilo_dev?sub_confirmation=1"> <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtoTrMdOt7GnX8YqPa5OpFQ?color=%23FF0000&label=INSCREVA-SE&logo=youtube&logoColor=white&style=for-the-badge&labelColor=E60023"/> </a> </p> 
-<p> <a href="https://www.youtube.com/@Teofilo_dev"> <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCtoTrMdOt7GnX8YqPa5OpFQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/> </a> </p> 
-<p> <a href="https://github.com/WilsonTeofilo?tab=followers"> <img src="https://custom-icon-badges.demolab.com/github/followers/WilsonTeofilo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES"/> </a> </p>
+  <a href="https://www.youtube.com/@Teofilo_dev">
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCtoTrMdOt7GnX8YqPa5OpFQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a>
+
+  <a href="https://github.com/WilsonTeofilo?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/WilsonTeofilo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES"/>
+  </a>
+</p>
+
+
+<br>
+<br>
+
+<h2 align="center"><em>💡 Tecnologias que uso</em></h2>
+
+<p align="center">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
 
 <br>
 <br>
