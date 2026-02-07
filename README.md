@@ -38,19 +38,28 @@ Compartilho minha rotina de estudos, aprendizados e experiências através de **
   <img title="HTML5" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img title="CSS3" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img title="Python" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
   <img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img title="Python" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
 ---
 
+<h2 align="center"> <em> ⋆｡𖦹°⭒ Estatísticas ⭒°𖦹｡⋆ </em> </h2>
 
-### 📊 Estatísticas
+<div align="center">
+  
+![Stats de Wilson](https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&rank_icon=github)
+![Streak de Wilson](https://nirzak-streak-stats.vercel.app/?user=WilsonTeofilo&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&layout=compact&theme=radical"/>
+<br/>
+
+![Linguagens de Wilson](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&layout=compact)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonTeofilo&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
 </div>
 ---
 
