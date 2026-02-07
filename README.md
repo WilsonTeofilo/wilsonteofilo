@@ -1,11 +1,12 @@
 <p align="center">
   <img 
-    src="./assets/foto.png" 
-    width="180px" 
-    style="border-radius:50%;" 
+    src="./assets/foto/perfil.jpg"
+    width="400"
+    style="border-radius:50%;"
     alt="Foto de perfil de Wilson Teofilo"
   />
 </p>
+
 
 <h1 align="center">Wilson Teofilo</h1>
 
