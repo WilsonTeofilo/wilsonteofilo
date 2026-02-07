@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cortadinho.jpg" width="820" style="border-radius:20px;" />
+<img src="./assets/cortadinho.jpg" width="820"  height = "360" style="border-radius:20px;" />
 
 
 
