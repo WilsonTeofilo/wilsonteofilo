@@ -73,7 +73,7 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&rank_icon=github)
 ![](https://nirzak-streak-stats.vercel.app/?user=WilsonTeofilo&theme=dark&background=000000&card_width=401)
 
 <br/>
