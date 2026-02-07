@@ -13,7 +13,9 @@ Programador em evolução
 
 <br>
 
-<h2 align="center"><em>⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆</em></h2>
+<h2 align="center">
+  <em>⋆ ִֶָ☾.⭒ Sobre mim ⭒ ☾.⋆</em>
+</h2>
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="230" align="right" style="margin-left:20px;" />
 
@@ -29,53 +31,21 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 
 <br>
 
-<details>
-<summary><b>📚 Atualmente estudando:</b></summary>
 
-- Desenvolvimento Web (HTML, CSS, JS)
-- Java e Programação Orientada a Objetos
-- Git e Versionamento
-- Projetos práticos para portfólio
-
-</details>
-
-<br>
-<br>
 
 <h2 align="center"><em>🔗 Conecte-se comigo</em></h2>
 
-<p align="center">
-  <a href="https://www.youtube.com/@Teofilo_dev?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-Inscreva--se-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-  <a href="https://www.youtube.com/@Teofilo_dev">
-    <img src="https://img.shields.io/badge/YouTube-Views-gold?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/WilsonTeofilo?tab=followers">
-    <img src="https://img.shields.io/badge/GitHub-Seguidores-blue?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<p> <a href="https://www.youtube.com/@Teofilo_dev?sub_confirmation=1"> <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtoTrMdOt7GnX8YqPa5OpFQ?color=%23FF0000&label=INSCREVA-SE&logo=youtube&logoColor=white&style=for-the-badge&labelColor=E60023"/> </a> </p> 
+<p> <a href="https://www.youtube.com/@Teofilo_dev"> <img src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCtoTrMdOt7GnX8YqPa5OpFQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/> </a> </p> 
+<p> <a href="https://github.com/WilsonTeofilo?tab=followers"> <img src="https://custom-icon-badges.demolab.com/github/followers/WilsonTeofilo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES"/> </a> </p>
 
 <br>
 <br>
 
-<h2 align="center"><em>💡 Tecnologias que uso</em></h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
 
-<br>
-<br>
-
-<h2 align="center"><em>⋆｡𖦹°⭒ Estatísticas ⭒°𖦹｡⋆</em></h2>
+<h2 align="center"
+  ><em>⋆ ִֶָ☾.°⭒ Estatísticas ⭒ ִֶָ☾.⋆ </em></h2>
 
 <div align="center">
 
