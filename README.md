@@ -11,11 +11,11 @@
 
 
 
-
-
-**Estudante de Desenvolvimento de Sistemas | Programador em evolução 🚀**
+⋆｡𖦹°⭒ Sobre mim ⭒°𖦹｡⋆
 
 Me chamo **Wilson Teofilo**, sou de **São Paulo – SP** e atualmente curso **Desenvolvimento de Sistemas** na **ETEC Irmã Agostina** (3º semestre).
+
+**Estudante de Desenvolvimento de Sistemas | Programador em evolução 🚀**
 
 Tenho interesse em **desenvolvimento de software**, **programação de jogos** e **projetos práticos**, sempre buscando evoluir tanto na lógica quanto na arquitetura de sistemas.
 
