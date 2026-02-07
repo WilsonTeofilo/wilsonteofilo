@@ -45,13 +45,13 @@ Compartilho minha rotina de estudos, aprendizados e experiências através de **
 
 ---
 
+
 ### 📊 Estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&theme=radical&locale=pt-br&hide_title=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&layout=compact&theme=radical&locale=pt-br&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&layout=compact&theme=radical"/>
 </div>
-
 ---
 
 ### 📡 Redes
