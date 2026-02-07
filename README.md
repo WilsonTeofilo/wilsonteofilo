@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.pinimg.com/736x/d8/28/3f/d8283f32bf3e2ca6b6e816593b371c44.jpg" width="350px" style="border-radius: 20px; border: 3px solid #D4AF37;">
+
 # 👩🏾‍💻 Wilson Teofilo
 
 **`Estudante de Desenvolvimento de sistemas`**
