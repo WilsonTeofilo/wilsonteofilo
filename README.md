@@ -1,21 +1,4 @@
-<p align="center">
-  <img 
-    src="./assets/foto.png"
-    width="600"
-    height = "200"
-    style="border-radius:50%;"
-    alt="Foto de perfil de Wilson Teofilo"
-  />
-</p>
 
-
-<h1 align="center">Wilson Teofilo</h1>
-
-<p align="center">
-  Estudante de Desenvolvimento de Sistemas • Programador em evolução 🚀
-</p>
-
-<hr/>
 
 
 
