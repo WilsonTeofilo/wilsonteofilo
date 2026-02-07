@@ -17,7 +17,7 @@
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="230" align="right" style="margin-left:20px;" />
 
 <p>
-Olá pessoas, Me chamo <b>Wilson Teofilo</b>, sou de <b>São Paulo – SP</b> e atualmente curso  
+Olá pessoal, Me chamo <b>Wilson Teofilo</b>, sou de <b>São Paulo – SP</b> e atualmente curso  
 <b>Desenvolvimento de Sistemas</b> na <b>ETEC Irmã Agostina</b> (3º semestre).
 </p>
 
