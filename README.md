@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cortadinho.jpg" width="880" style="border-radius:20px;" />
+<img src="./assets/cortadinho.jpg" width="780" style="border-radius:20px;" />
 
 # Wilson Teofilo
 
