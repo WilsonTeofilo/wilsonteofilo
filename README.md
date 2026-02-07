@@ -2,10 +2,7 @@
 
 <img src="./assets/cortadinho.jpg" width="880" style="border-radius:20px;" />
 
-# Wilson Teofilo
 
-### 🚀 Estudante de Desenvolvimento de Sistemas  
-Programador em evolução
 
 ---
 
@@ -20,7 +17,7 @@ Programador em evolução
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="230" align="right" style="margin-left:20px;" />
 
 <p>
-Oii! Me chamo <b>Wilson Teofilo</b>, sou de <b>São Paulo – SP</b> e atualmente curso  
+Olá pessoas, Me chamo <b>Wilson Teofilo</b>, sou de <b>São Paulo – SP</b> e atualmente curso  
 <b>Desenvolvimento de Sistemas</b> na <b>ETEC Irmã Agostina</b> (3º semestre).
 </p>
 
