@@ -69,25 +69,28 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 
 
 <h2 align="center"
-  ><em> ִֶָ☾  Estatísticas  ִֶָ☾. </em></h2>
+  ><em> ִֶָ☾  Estatísticas  ִֶָ☾ </em></h2>
 
-<div align="center">
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&rank_icon=github"/>
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=WilsonTeofilo&theme=dark&background=000000&hide_border=true"
+  />
+</p>
 
-<br><br>
-
-<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=WilsonTeofilo&theme=dark&background=000000"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonTeofilo&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"
+  />
+</p>
 
 <br>
 
