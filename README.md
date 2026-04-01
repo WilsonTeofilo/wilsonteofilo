@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/cortadinho.jpg" width="820"  height = "360" style="border-radius:20px;" />
-
-
+<img src="./assets/cortadinho.jpg" width="820" height="360" style="border-radius:20px;" />
 
 ---
 
@@ -28,7 +26,6 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 
 <br>
 
-
 <h2 align="center"><em>🔗 Conecte-se comigo</em></h2>
 
 <p align="center">
@@ -44,7 +41,6 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
     <img src="https://custom-icon-badges.demolab.com/github/followers/WilsonTeofilo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES"/>
   </a>
 </p>
-
 
 <br>
 <br>
@@ -63,15 +59,13 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 <br>
 <br>
 
-
-
-<h2 align="center"
-  ><em> ִֶָ☾  Estatísticas  ִֶָ☾ </em></h2>
+<h2 align="center"><em> ִֶָ☾  Estatísticas  ִֶָ☾ </em></h2>
 
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&rank_icon=github)
-![](https://nirzak-streak-stats.vercel.app/?user=WilsonTeofilo&theme=dark&background=000000&card_width=401)
+
+![](https://streak-stats.demolab.com?user=WilsonTeofilo&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&v=2)
 
 <br/>
 <br/>
@@ -81,9 +75,10 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonTeofilo&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonTeofilo&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true" width="100%"/>
 
 </div>
+
 <br>
 
 <p align="center">
