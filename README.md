@@ -54,7 +54,7 @@ Olá, me chamo **Wilson Teofilo**
 
 ---
 
-##  Tecnologias
+## Tecnologias
 
 <p align="center">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -91,6 +91,6 @@ Olá, me chamo **Wilson Teofilo**
 
 <div align="center">
 
- *A cada novo projeto, um passo mais perto de me tornar o programador que quero ser.*
+📌 *A cada novo projeto, um passo mais perto de me tornar o programador que quero ser.*
 
 </div>
