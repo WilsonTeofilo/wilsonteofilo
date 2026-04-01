@@ -4,29 +4,39 @@
 
 ---
 
-</div>
+# ☕ Wilson Teofilo
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Focado+em+Software+e+Games;Evoluindo+um+projeto+por+vez" />
 
 <br>
 
-<h2 align="center">
-  <em> ִֶָ☾ Sobre mim  ☾⋆</em>
-</h2>
+<img src="https://img.shields.io/badge/Nível-A+-000000?style=for-the-badge&labelColor=111111&color=FFFFFF" />
+<img src="https://img.shields.io/badge/Consistência-A-000000?style=for-the-badge&labelColor=111111&color=FFFFFF" />
+<img src="https://img.shields.io/badge/Disciplina-A--000000?style=for-the-badge&labelColor=111111&color=FFFFFF" />
+
+</div>
+
+---
+
+## ☾ Sobre mim
 
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="230" align="right" style="margin-left:20px;" />
 
-<p>
-Olá pessoal, Me chamo <b>Wilson Teofilo</b>, sou de <b>São Paulo – SP</b> e atualmente curso  
-<b>Desenvolvimento de Sistemas</b> na <b>ETEC Irmã Agostina</b> (3º semestre).
-</p>
+Olá, me chamo **Wilson Teofilo**  
+📍 São Paulo – SP  
 
-<p>
-Tenho interesse em <b>desenvolvimento de software</b>, <b>programação de jogos</b>  
-e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitetura.
-</p>
+🎓 Estudante de **Desenvolvimento de Sistemas**  
+🏫 ETEC Irmã Agostina — 3º semestre  
 
-<br>
+💭 Focado em:
+- Desenvolvimento de software
+- Programação de jogos
+- Arquitetura de sistemas
+- Evolução constante na lógica
 
-<h2 align="center"><em>🔗 Conecte-se comigo</em></h2>
+---
+
+## 🔗 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.youtube.com/@Teofilo_dev?sub_confirmation=1">
@@ -42,10 +52,9 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
   </a>
 </p>
 
-<br>
-<br>
+---
 
-<h2 align="center"><em>💡 Tecnologias que uso</em></h2>
+## 💡 Tecnologias
 
 <p align="center">
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -56,10 +65,9 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-<br>
-<br>
+---
 
-<h2 align="center"><em> ִֶָ☾  Estatísticas  ִֶָ☾ </em></h2>
+## ☾ Estatísticas
 
 <div align="center">
 
@@ -68,19 +76,21 @@ e projetos práticos que me ajudem a evoluir tanto na lógica quanto na arquitet
 ![](https://streak-stats.demolab.com?user=WilsonTeofilo&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&v=2)
 
 <br/>
-<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&bg_color=000000&title_color=ffffff&text_color=ffffff&card_width=350&layout=compact)
 
-<br/>
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonTeofilo&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true" width="100%"/>
 
 </div>
 
-<br>
+---
 
-<p align="center">
-📌 <em>A cada novo projeto, um passo mais perto de me tornar o programador que quero ser.</em>
-</p>
+## ⚡ Mentalidade
+
+<div align="center">
+
+📌 *A cada novo projeto, um passo mais perto de me tornar o programador que quero ser.*
+
+</div>
