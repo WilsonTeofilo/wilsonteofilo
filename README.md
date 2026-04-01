@@ -93,6 +93,7 @@ Olá, me chamo **Wilson Teofilo**
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonTeofilo&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=WilsonTeofilo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&v=2)
 
 <br>
 
