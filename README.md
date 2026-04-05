@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## ☾ Sobre mim
+##  Sobre mim
 
 </div>
 
@@ -78,7 +78,7 @@ Olá, me chamo **Wilson Teofilo**
 
 <div align="center">
 
-## ☾ Estatísticas
+##  Estatísticas
 
 </div>
 
