@@ -39,7 +39,7 @@ Olá, me chamo **Wilson Teofilo**
 
 <div align="center">
 
-## 🔗 Conecte-se comigo
+## 🔗 Conecte-se comigo 🔗
 
 </div>
 
