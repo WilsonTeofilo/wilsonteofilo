@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/newfoto.jpg" width="820" height="360" style="border-radius:20px;" />
+<img src="./assets/newfoto.png" width="820" height="360" style="border-radius:20px;" />
 
 <br><br>
 
