@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="230" align="right" style="margin-left:20px;" />
+
 
 Olá, me chamo **Wilson Teofilo**  
 📍 São Paulo – SP  
