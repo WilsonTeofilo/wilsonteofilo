@@ -21,7 +21,7 @@
 
 <div align="center">
 📍 São Paulo – SP  
-🎓 Estudante de **Desenvolvimento de Sistemas**  
+🎓 Estudante de Desenvolvimento de Sistemas
 🏫 ETEC Irmã Agostina — 3º semestre  
 
  Focado em:
