@@ -20,9 +20,7 @@
 
 
 <div align="center">
-Olá, me chamo **Wilson Teofilo**  
 📍 São Paulo – SP  
-
 🎓 Estudante de **Desenvolvimento de Sistemas**  
 🏫 ETEC Irmã Agostina — 3º semestre  
 
