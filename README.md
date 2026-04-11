@@ -19,7 +19,7 @@
 </div>
 
 
-
+<div align="center">
 Olá, me chamo **Wilson Teofilo**  
 📍 São Paulo – SP  
 
@@ -36,6 +36,8 @@ Olá, me chamo **Wilson Teofilo**
 <br>
 
 ---
+
+</div>
 
 <div align="center">
 
