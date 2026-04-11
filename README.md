@@ -28,10 +28,10 @@ Olá, me chamo **Wilson Teofilo**
 
  Focado em:
 
-- Desenvolvimento de software  
-- Programação de jogos  
-- Arquitetura de sistemas  
-- Evolução constante na lógica  
+. Desenvolvimento de software  
+. Programação de jogos  
+. Arquitetura de sistemas  
+. Evolução constante na lógica  
 
 <br>
 
